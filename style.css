@@ -1,0 +1,64 @@
+/* Set the background color */
+body {
+    background-color: #e7f2f8;
+}
+
+/* Set the font */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Style the section headers */
+h2 {
+    color: #333;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Style the links */
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+.header-panel {
+    background-color: #333; /* dark gray */
+    color: #fff; /* white */
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto 0; /* center horizontally and add margin at the top */
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+main {
+    max-width: 600px;
+    margin: 20px auto 0; /* center horizontally and add margin at the top */
+}
+
+.panel {
+    background-color: #f7f7f7; /* white */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto; /* center horizontally */
+    margin-bottom: 20px;
+}
+
+  
+  
+  
