@@ -1,2 +1,3 @@
-# home
-A hub for all of my links and resources.
+# carterjean' Home Page
+
+This site contains a list of links to various recources that I use, as well as personal links like playlists, spreadsheets and social media links.
